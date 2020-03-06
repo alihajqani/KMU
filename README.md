@@ -1,6 +1,6 @@
 # Kerman University of Medical Sciences
 
-<html dir="{{ site.dir }}">
+<pre dir="{{ site.dir }}">
 
 ## آموزش عمومی و تخصصی کرونا ویروس
 
@@ -44,4 +44,4 @@
 
 7. [http://instagram.com/kermanmedicaluniversity](http://instagram.com/kermanmedicaluniversity)
 
-</html>
+</pre>
