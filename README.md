@@ -1,7 +1,5 @@
 # Kerman University of Medical Sciences
 
-<pre dir="{{ site.dir }}">
-
 ## آموزش عمومی و تخصصی کرونا ویروس
 
 ### [corona.kmu.ac.ir](http://corona.kmu.ac.ir/)
@@ -43,5 +41,3 @@
 6. [http://sapp.ir/salamatekerman](http://sapp.ir/salamatekerman)
 
 7. [http://instagram.com/kermanmedicaluniversity](http://instagram.com/kermanmedicaluniversity)
-
-</pre>
