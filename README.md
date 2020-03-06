@@ -4,7 +4,7 @@
 
 ### [corona.kmu.ac.ir](http://corona.kmu.ac.ir/)
 
-#### کانالهای واتس آپ: 
+#### کانالهای واتس آپ 
 
 1. [http://chat.whatsapp.com/Dtf2fhm4wNLGXdNHwEanue](http://chat.whatsapp.com/Dtf2fhm4wNLGXdNHwEanue)
 
