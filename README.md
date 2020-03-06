@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Kerman University of Medical Sciences
 
-You can use the [editor on GitHub](https://github.com/wenexo/KMU/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div style="direction: rtl;">
+سایت آموزش عمومی و تخصصی #کرونا ویروس 
+👇👇👇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🌐 corona.kmu.ac.ir
+کانال های واتس اپ:
+1⃣ chat.whatsapp.com/Dtf2fhm4wNLGXdNHwEanue
+2⃣ chat.whatsapp.com/DazUDUyDxLKLMyHcUTiHZr
+3⃣ chat.whatsapp.com/CDMcRXvntfSExqIikaMLdq
+4⃣ chat.whatsapp.com/KZlFXN4tS8ZGnM1FIX6pzw
+5⃣ chat.whatsapp.com/K2IaxSwLyho2nmbQdxkJ7o
+6⃣ chat.whatsapp.com/G8SrEA6Oh4z4PgugxyKcYu
+7⃣ chat.whatsapp.com/E9ScFOBMNYO8JB8S9iZPbG
+8⃣ chat.whatsapp.com/IaWaeEJo2vtFRGPlhDyf3B
+9⃣ chat.whatsapp.com/GJUcqfZHns1Hj7I2HLYu87
+🔟 chat.whatsapp.com/EkewoRBhVc28sOIWYRg2Cg
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenexo/KMU/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+سایر شبکه های اجتماعی:
+‎🆔 telegram.me/prkmu
+🆔 eitaa.com/salamatekerman
+🆔 ble.ir/salamatekerman
+🆔 gap.im/salamatekerman
+🆔 rubika.ir/salamatekerman
+🆔 sapp.ir/salamatekerman
+⚪ instagram.com/kermanmedicaluniversity
+</div>
